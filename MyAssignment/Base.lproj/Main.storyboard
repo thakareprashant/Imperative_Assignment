@@ -519,6 +519,11 @@
                             <constraint firstItem="brP-Zo-mDg" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="wUQ-sP-zGP"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="brP-Zo-mDg" secondAttribute="bottom" id="x37-3C-8sf"/>
                         </constraints>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="OZS-TI-7h0"/>
+                            </mask>
+                        </variation>
                     </view>
                     <navigationItem key="navigationItem" title="Home" id="CR3-s0-5R7"/>
                     <connections>
